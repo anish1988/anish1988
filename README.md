@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/anish1988?tab=repositories](https://github.com/anish1988?tab=repositories)
 
-- 📝 I regularly write articles on [http://anwarportfolio.netlify.app/](https://anwarportfolio.vercel.app/)
+- 📝 I regularly write articles 
 
-- 💬 Ask me about **java-script,react,laravel,asp.net,MERN-Stack**
+- 💬 Ask me about **java-script,react,laravel,Docker,Kubernet,MERN-Stack**
 
-- 📫 How to reach me **anwarmahedisr@gmail.com**
+- 📫 How to reach me **way2anishrai@gmail.com**
 
-- 📄 Know about my experiences [https://anwarportfolio.vercel.app/](https://anwarportfolio.vercel.app/about)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think i am funny as well as hard worker**
 
